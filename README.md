@@ -1,6 +1,7 @@
 <div align="center">
   
-![Vittabanner](https://github.com/user-attachments/assets/9f882b47-faed-4cb2-b13f-876ec9326927)
+![Vittabanner](https://github.com/user-attachments/assets/c6d4c9f2-0351-4fa8-9045-0e4562bf4213)
+
 
 </div>
 
