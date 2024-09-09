@@ -55,7 +55,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/Android Studio-CED4DA?style=for-the-badge&logo=androidStudio&logoColor=1572B6" alt="AndroidStudio" /> 	
 <img src="https://img.shields.io/badge/React-CED4DA?style=for-the-badge&logo=react&logoColor=blue" alt="React" /> 
 <img src="https://img.shields.io/badge/Node.js-CED4DA?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node" />  
-<img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" /><br>
+<img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" />
 <img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=git&logoColor=DC143C" alt="Git" /> 
 <img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /> 
 <img src="https://img.shields.io/badge/Google%20Sheets-CED4DA?style=for-the-badge&logo=google-sheets&logoColor=34A853" alt="Google Sheets" /> 
